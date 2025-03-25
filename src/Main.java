@@ -13,4 +13,10 @@ public class Main {
             System.out.println("WIELKICHUJ");
         }
     }
+    public static void dupa2(){
+        //tutaj bedzie dupa2
+    }
+
+
+
 }
