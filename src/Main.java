@@ -2,16 +2,14 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-
-
-
-
-
+        dupa();
     }
 
 
     public static void dupa(){
-        System.out.println("dupa z trupa");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("dupa z trupa");
+            System.out.println("WIELKICHUJ");
+        }
     }
-
 }
