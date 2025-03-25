@@ -16,6 +16,9 @@ public class Main {
     public static void dupa2(){
         //tutaj bedzie dupa2
     }
+    public static void dupa3(){
+        //tutaj bedzie dupa3
+    }
 
 
 
